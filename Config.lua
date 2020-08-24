@@ -1,1 +1,1 @@
-_G.update 1
+_G.update = true
